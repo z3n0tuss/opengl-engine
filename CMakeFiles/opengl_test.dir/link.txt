@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/opengl_test.dir/src/main.cpp.o CMakeFiles/opengl_test.dir/src/window/window.cpp.o CMakeFiles/opengl_test.dir/src/primitive/primitive.cpp.o CMakeFiles/opengl_test.dir/src/shader_program/shader_program.cpp.o -o opengl_test  /usr/lib/x86_64-linux-gnu/libGLEW.so -lglfw -lGL 

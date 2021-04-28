@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/lee/dev/cpp/opengl/sdl_test/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -g -o CMakeFiles/opengl_test.dir/src/main.cpp.o -c /home/lee/dev/cpp/opengl/sdl_test/src/main.cpp",
+  "file": "/home/lee/dev/cpp/opengl/sdl_test/src/main.cpp"
+},
+{
+  "directory": "/home/lee/dev/cpp/opengl/sdl_test/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -g -o CMakeFiles/opengl_test.dir/src/window/window.cpp.o -c /home/lee/dev/cpp/opengl/sdl_test/src/window/window.cpp",
+  "file": "/home/lee/dev/cpp/opengl/sdl_test/src/window/window.cpp"
+},
+{
+  "directory": "/home/lee/dev/cpp/opengl/sdl_test/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -g -o CMakeFiles/opengl_test.dir/src/primitive/primitive.cpp.o -c /home/lee/dev/cpp/opengl/sdl_test/src/primitive/primitive.cpp",
+  "file": "/home/lee/dev/cpp/opengl/sdl_test/src/primitive/primitive.cpp"
+},
+{
+  "directory": "/home/lee/dev/cpp/opengl/sdl_test/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -g -o CMakeFiles/opengl_test.dir/src/shader_program/shader_program.cpp.o -c /home/lee/dev/cpp/opengl/sdl_test/src/shader_program/shader_program.cpp",
+  "file": "/home/lee/dev/cpp/opengl/sdl_test/src/shader_program/shader_program.cpp"
+}
+]

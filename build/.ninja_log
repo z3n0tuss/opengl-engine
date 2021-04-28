@@ -1,0 +1,23 @@
+# ninja log v5
+1	102	1619470799593775785	CMakeFiles/opengl_test.dir/src/primitive/primitive.cpp.o	3997afeabea35e14
+102	175	1619470799665775963	opengl_test	1313aa300b4f503e
+0	302	1619470675653469403	CMakeFiles/opengl_test.dir/src/main.cpp.o	9676d3a0b9ae0fd6
+0	313	1619470352572669710	CMakeFiles/opengl_test.dir/src/shader_program/shader_program.cpp.o	50fe98a114a6b076
+1	122	1619310649306624853	CMakeFiles/sdl_test.dir/src/main.cpp.o	5bb08eff825d0a29
+0	351	1619470675701469522	CMakeFiles/opengl_test.dir/src/window/window.cpp.o	881e7fa24f2ae145
+1	406	1619521668146748133	CMakeFiles/opengl_test.dir/src/primitive/primitive.cpp.o	3997afeabea35e14
+1	562	1619521668302747992	CMakeFiles/opengl_test.dir/src/shader_program/shader_program.cpp.o	50fe98a114a6b076
+0	648	1619521668390747911	CMakeFiles/opengl_test.dir/src/main.cpp.o	9676d3a0b9ae0fd6
+1	726	1619521668466747843	CMakeFiles/opengl_test.dir/src/window/window.cpp.o	881e7fa24f2ae145
+726	854	1619521668594747726	opengl_test	1313aa300b4f503e
+2	464	1619523077160868937	CMakeFiles/opengl_test.dir/src/primitive/primitive.cpp.o	3997afeabea35e14
+1	662	1619523077360915975	CMakeFiles/opengl_test.dir/src/main.cpp.o	9676d3a0b9ae0fd6
+2	751	1619523077448936672	CMakeFiles/opengl_test.dir/src/window/window.cpp.o	881e7fa24f2ae145
+2	791	1619523077488946080	CMakeFiles/opengl_test.dir/src/shader_program/shader_program.cpp.o	50fe98a114a6b076
+791	931	1619523077628979006	opengl_test	1313aa300b4f503e
+2	395	1619523115322704979	CMakeFiles/opengl_test.dir/src/primitive/primitive.cpp.o	3997afeabea35e14
+395	503	1619523115426713672	opengl_test	1313aa300b4f503e
+1	388	1619523153220156093	CMakeFiles/opengl_test.dir/src/primitive/primitive.cpp.o	3997afeabea35e14
+388	491	1619523153320156119	opengl_test	1313aa300b4f503e
+1	392	1619523196782956831	CMakeFiles/opengl_test.dir/src/primitive/primitive.cpp.o	3997afeabea35e14
+392	493	1619523196882951853	opengl_test	1313aa300b4f503e
